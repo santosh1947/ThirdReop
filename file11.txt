@@ -1,0 +1,2 @@
+to write anything in file we need to use vi fileName.txt
+after writing we need to use :wq
